@@ -1,3 +1,3 @@
 #!/bin/sh
 
-./gradelew build
+ls
